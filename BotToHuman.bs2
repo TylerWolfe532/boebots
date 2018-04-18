@@ -1,0 +1,10 @@
+'This is a Tyler program - BotToHuman.bs2
+'BASIC Stamp sends a text message to your PC/laptop, which is theoretically
+'read by a person
+
+' {$STAMP BS2}
+' {$PBASIC 2.5}
+
+DEBUG "Hello, world! :)"
+
+END
